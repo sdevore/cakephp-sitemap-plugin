@@ -5,7 +5,7 @@ This plugin creates dynamic xml sitemaps for search engines.
 
 Install
 -------
-1. Copy the sitemap folder to your plugins directory
+1. Copy these files to  app/plugins/sitemap directory
 
 2. Add this line to your config/routes.php 
    
